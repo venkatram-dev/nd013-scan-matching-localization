@@ -49,8 +49,8 @@ cd /home/workspace/c3-project
 <br>
 
 ### 9 iterations
-<br>
-<br>
+
+
 ![This is an image](images/c3_icp_lidar_9_iterations_a.png)
 <br>
 <br>
