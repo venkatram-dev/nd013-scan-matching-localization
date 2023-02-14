@@ -1,10 +1,11 @@
 
 # nd013-scan-matching-localization
-
+<br>
+<br>
 ## Project Workspace
-
-## Compile
-
+<br>
+<br>
+### Compile
 cd /home/workspace/c3-project
 <br>
 cmake .
@@ -12,9 +13,8 @@ cmake .
 make
 <br>
 <br>
-
-## Run
-
+<br>
+### Run
 su - student // Ignore Permission Denied, if you see student@ you are good
 <br>
 cd /home/workspace/c3-project
@@ -31,30 +31,43 @@ cd /home/workspace/c3-project
 <br>
 <br>
 
-
 ## Vehicle driving and error screenshots after implementing ICP
 <br>
 <br>
-
-### 3 iterations
 <br>
 <br>
-![This is an image](images/c3_icp_lidar_3_iterations_a.png)
-
-<br>
-<br>
-![This is an image](images/c3_icp_lidar_3_iterations_b.png)
 
 
 ### 9 iterations
-<br>
-<br>
+
+
+#### Trial 1
+
+
 ![This is an image](images/c3_icp_lidar_9_iterations_a.png)
 <br>
 <br>
-![This is an image](images/c3_icp_lidar_9_iterations_c.png)
 
+#### Trial 2
+
+
+![This is an image](images/c3_icp_lidar_9_iterations_a.png)
 <br>
 <br>
+
+
+### 3 iterations
+
+#### Trial 1
+
+![This is an image](images/c3_icp_lidar_3_iterations_a.png)
+<br>
+<br>
+
+#### Trial 2
+
+
+![This is an image](images/c3_icp_lidar_3_iterations_b.png)
+
 <br>
 <br>
