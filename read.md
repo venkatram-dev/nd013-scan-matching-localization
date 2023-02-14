@@ -39,9 +39,14 @@ cd /home/workspace/c3-project
 
 ### 3 iterations
 
+#### Trial 1
+
 ![This is an image](images/c3_icp_lidar_3_iterations_a.png)
 <br>
 <br>
+
+#### Trial 2
+
 
 ![This is an image](images/c3_icp_lidar_3_iterations_b.png)
 
@@ -51,9 +56,15 @@ cd /home/workspace/c3-project
 ### 9 iterations
 
 
+#### Trial 1
+
+
 ![This is an image](images/c3_icp_lidar_9_iterations_a.png)
 <br>
 <br>
+
+#### Trial 2
+
 
 ![This is an image](images/c3_icp_lidar_9_iterations_a.png)
 <br>
