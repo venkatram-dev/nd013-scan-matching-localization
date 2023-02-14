@@ -3,16 +3,13 @@
 <br>
 <br>
 ## Project Workspace
-<br>
-<br>
+
 ### Compile
 cd /home/workspace/c3-project
 <br>
 cmake .
 <br>
 make
-<br>
-<br>
 <br>
 ### Run
 su - student // Ignore Permission Denied, if you see student@ you are good
@@ -27,15 +24,11 @@ cd /home/workspace/c3-project
 <br>
 ./cloud_loc // Might have core dump on start up, just rerun if so. Crash doesn't happen more than a couple of times
 <br>
-<br>
-<br>
-<br>
 
 ## Vehicle driving and error screenshots after implementing ICP
 <br>
 <br>
-<br>
-<br>
+
 
 
 ### 9 iterations
@@ -51,7 +44,7 @@ cd /home/workspace/c3-project
 #### Trial 2
 
 
-![This is an image](images/c3_icp_lidar_9_iterations_a.png)
+![This is an image](images/c3_icp_lidar_9_iterations_b.png)
 <br>
 <br>
 
