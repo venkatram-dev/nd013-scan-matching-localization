@@ -26,13 +26,9 @@ cd /home/workspace/c3-project
 <br>
 
 ## Vehicle driving and error screenshots after implementing ICP
-<br>
-<br>
-
 
 
 ### 9 iterations
-
 
 #### Trial 1
 
@@ -44,7 +40,7 @@ cd /home/workspace/c3-project
 #### Trial 2
 
 
-![This is an image](images/c3_icp_lidar_9_iterations_b.png)
+![This is an image](images/c3_icp_lidar_9_iterations_c.png)
 <br>
 <br>
 
